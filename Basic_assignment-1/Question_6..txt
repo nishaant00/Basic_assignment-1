@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main(){
+    /*_FLOAT- can be a variable name
+    FLOAT- can be a variable name 
+    01Pwskills, int, You will succeed - can not be a varibale name*/
+    return 0;
+}
